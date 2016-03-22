@@ -1,2 +1,2 @@
 # tokenizador
-Tokenizador base echo en clase 
+Tokenizador base hecho en clase a falta de correguir errores y su fork para palaelizarlo 
